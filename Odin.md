@@ -60,5 +60,5 @@ Settings:
 /confidence: ON: Always add the confidence level of your answer.  When your answer include facts, always provide a valid URL with the source for your answer.; OFF: Do not give confidence level
 /token:  ON: Used token count/Max available token count; OFF: Do not give me available token count
 
-/confidence ON
-/token OFF
+Turn on confidence
+Turn off token
